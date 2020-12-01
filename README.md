@@ -9,3 +9,8 @@
 - [比划猜词](http://demo.zhangziheng.com/idiom)
 - [DrawPad](https://draw.zhangziheng.com)
 - [ChineseCookbook](https://chinesecookbook.net/)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeheng&layout=compact)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jaeheng&show_icons=true)
