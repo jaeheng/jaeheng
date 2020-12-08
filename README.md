@@ -1,3 +1,5 @@
+  
+<img src="https://github-readme-stats.vercel.app/api?username=jaeheng&show_icons=true" title="Anurag's github stats" align="right" />
 ### Hi there 👋
 
 > I am a front-end engineer.
@@ -11,6 +13,4 @@
 - [ChineseCookbook](https://chinesecookbook.net/)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeheng&layout=compact)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jaeheng&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeheng&layout=compact" title="Top Langs" align="right" />
