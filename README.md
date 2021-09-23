@@ -7,6 +7,7 @@
 
 ### 🔭 Works
 
+- [Bnb-Mobile](https://bnb.zhangziheng.com)
 - [Typing Training](http://tt.zhangziheng.com)
 - [Beginning模版](https://blog.zhangziheng.com/481.html)
 - [比划猜词](http://demo.zhangziheng.com/idiom)
