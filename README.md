@@ -13,6 +13,3 @@
 - [比划猜词](http://demo.zhangziheng.com/idiom)
 - [DrawPad](https://draw.zhangziheng.com)
 - [ChineseCookbook](https://chinesecookbook.net/)
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeheng&layout=compact" title="Top Langs" align="right" />
