@@ -1,5 +1,7 @@
 ### 🔭 Works
 
+![Stats](https://github-readme-stats.vercel.app/api?username=jaeheng&show_icons=true&theme=radical)  
+
 ## emlog应用
 
 ### 模版
